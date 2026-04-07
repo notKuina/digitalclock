@@ -1,6 +1,6 @@
-NEON CLOCK DASHBOARD
+DIGITAL CLOCK DASHBOARD
 
-Neon Clock Dashboard is a modern, futuristic time utility web application built using React and Tailwind CSS. It combines multiple time-related features into a single visually appealing dashboard with a neon-glow, glassmorphism-inspired user interface. The goal of the project is to provide both functionality and aesthetics by integrating essential tools like a digital clock, analog clock, alarm system, stopwatch, and timer in one place.
+Digital Clock Dashboard is a modern, futuristic time utility web application built using React and Tailwind CSS. It combines multiple time-related features into a single visually appealing dashboard with a neon-glow, glassmorphism-inspired user interface. The goal of the project is to provide both functionality and aesthetics by integrating essential tools like a digital clock, analog clock, alarm system, stopwatch, and timer in one place.
 
 FEATURES
 
