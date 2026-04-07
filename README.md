@@ -25,7 +25,13 @@ ALARM FUNCTIONALITY
 
 The alarm feature supports multiple alarms and plays a sound when triggered. Each alarm includes a stop option so users can easily turn it off. The system is designed in a way that additional features like snooze or custom alarm tones can be added later without major changes.
 
+License
+
+MIT License
+
 AUTHOR
 
+Developed by Samjhana Gharti Magar
+GitHub: https://github.com/notKuina
 
 
